@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PopylarLibraries</string>
+    <string name="count">Количество = %d</string>
 </resources>

@@ -15,7 +15,7 @@
         android:text="Счетчик1" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonCounter1_first_lesson"
+        android:id="@+id/buttonCounterOne"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Количество = 0" />
@@ -28,7 +28,7 @@
         android:text="Счетчик2" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonCounter2_first_lesson"
+        android:id="@+id/buttonCounterTwo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Количество = 0" />
@@ -41,7 +41,7 @@
         android:text="Счетчик3" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonCounter3_first_lesson"
+        android:id="@+id/buttonCounterThree"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Количество = 0" />
