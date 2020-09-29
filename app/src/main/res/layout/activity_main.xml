@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.activities.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Счетчик1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonCounter1_first_lesson"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Количество = 0" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Счетчик2" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonCounter2_first_lesson"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Количество = 0" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Счетчик3" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonCounter3_first_lesson"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Количество = 0" />
+
+</LinearLayout>
